@@ -3,7 +3,7 @@
 ## How do I start?
 - First of all make sure you are screen sharing via Google Chat link. We will try and record the session if you agree.
 
-- You can work in any IDE (IntellJ based is recommended) or directly in the [Kotlin language playground](https://pl.kotl.in/jiZuiC58B). 
+- You can work in any IDE (IntellJ based is recommended) or directly in the [Kotlin language playground](https://pl.kotl.in/hP-6A_ZTd). 
 
 - Take up to ~50 mins in total on the following questions, attempt each one and let us know if you have any further questions.
 
